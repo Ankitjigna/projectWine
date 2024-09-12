@@ -1,0 +1,106 @@
+#project {
+
+    background-image: url("gate.jpg");
+    background-size: cover;
+}
+.div1{
+    text-align: center;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+}
+#mainBtn{
+    color: blue;
+    border-radius: 20%;
+    height: 50px;
+    width:80px ;
+}
+h2{
+    color: rgb(11, 139, 250);
+}
+
+
+/* loginpage */
+
+
+
+#login{
+    background-image: url("wine.jpg");
+    background-size: cover;
+}
+
+.container{
+    text-align: center;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+}
+#signBtn{
+    color: blue;
+    border-radius: 20%;
+    height: 50px;
+    width:80px ;
+}
+#loginBtn{
+    color: blue;
+    border-radius: 20%;
+    height: 50px;
+    width:80px ;
+}
+
+
+
+
+
+
+
+/* lgn */
+
+#lgnn{
+    background-image: url("wineB.jpg");
+    background-size: cover;
+}
+.frm{
+    text-align: center;
+    position:absolute;
+    top: 40%;
+    left: 45%; 
+} 
+.lgnInp{
+    text-align: center;
+    border-radius: 20%;
+    height: 50px;
+    width: 200px;
+
+}
+
+
+
+/* sign */
+
+#signUp{
+    background-image: url("s1.jpg");
+    background-size: cover;
+}
+.info{
+    text-align: center;
+    position:absolute;
+    top: 25%;
+    left: 30%;
+}
+.info1{
+    text-align: center;
+    border-radius: 10%;
+    height: 50px;
+    width: 300px; 
+
+}
+.info2{
+    height: 50px;
+    width: 400px;
+    text-align: center;
+    border-radius: 10%;
+} 
+
+
+
